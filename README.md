@@ -6,11 +6,11 @@ This project pulls data from a news API.
 
 #
 ## Table of contents
-- [Description]()
-- [How to use]()
-- [References]()
-- [Licences]()
-- [Author Info]()
+- [Description](#description)
+- [How to use](#how-to-use)
+- [References](#references)
+- [Licences](#licences)
+- [Author Info](#author-info)
 
   ## Description
 
